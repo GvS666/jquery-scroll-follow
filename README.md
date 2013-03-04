@@ -46,7 +46,7 @@ Or call Scroll Follow on the desired DOM object and give it some parameters:
 </script>
 ```
 The Scroll Follow object will remain inside its immediate container.  
-[View Example](http://kitchen.net-perspective.com/sf-example-3.html)
+[View Example](http://kitchen.net-perspective.com/sf-example-3.html)  
 Or you can specify a parent (by ID) for the Scroll Follow object to consider its container:  
 [View Example](http://kitchen.net-perspective.com/sf-example-4.html)
 ```javascript
